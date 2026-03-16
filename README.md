@@ -1,16 +1,34 @@
-# classroom_407
+##แอปเก็บข้อมูลอุปกรณ์การเรียนในห้อง
+ชื่อ นางสาวกฤตพร แหลมไทย
+67543210051-8
+---
 
-A new Flutter project.
+รายละเอียดฟังก์ชัน
+- เพิ่มอุปกรณ์ใหม่
+- แก้ไขข้อมูล
+- ลบข้อมูลโดยการ Swipe
+- ดูรายละเอียดอุปกรณ์
+- ดูสถิติในหน้า Dashboard
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+# 📸 ตัวอย่างหน้าจอแอป
 
-A few resources to get you started if this is your first Flutter project:
+## Dashboard
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Equipment List
+(ใส่ Screenshot ที่นี่)
+
+## Add Equipment
+(ใส่ Screenshot ที่นี่)
+
+## Detail Screen
+(ใส่ Screenshot ที่นี่)
+
+---
+
+# ✅ สรุป
+
+แอปพลิเคชันนี้ถูกพัฒนาเพื่อใช้จัดการอุปกรณ์ภายในห้องเรียน  
+ช่วยให้สามารถบันทึก ตรวจสอบ และจัดการข้อมูลอุปกรณ์ได้สะดวกมากขึ้น
