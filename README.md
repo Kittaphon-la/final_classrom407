@@ -13,19 +13,7 @@
 
 ---
 
-# 📸 ตัวอย่างหน้าจอแอป
-
-## Dashboard
-
-
-## Equipment List
-(ใส่ Screenshot ที่นี่)
-
-## Add Equipment
-(ใส่ Screenshot ที่นี่)
-
-## Detail Screen
-(ใส่ Screenshot ที่นี่)
+# 📸 Upload รูปขึ้น readme ไม่ได้ ขออนุญาตแนบไฟล์นะคะ ขอบคุณต่ะ
 
 ---
 
